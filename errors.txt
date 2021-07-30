@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 1721: expected 'image_name_component' not found.
+    show "images/assets/google.png"
+         ^
+
+Ren'Py Version: Ren'Py 7.4.4.1439
+Tue Jul 27 23:29:18 2021

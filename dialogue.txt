@@ -1,0 +1,1042 @@
+Greetings! Welcome to the game.
+As you already know, this game is an interactive fiction, and I hope that after playing, you can learn something from it.
+Now first, please enter your name:
+Hello, [povname]!
+The game has four small stories, they each have a number of options.
+Please be careful, your choices will influence the direction of the story
+Chapter one
+You are a high school student
+One day between classes, you are sitting in your seat looking at your mobile phone and gradually feel the noise of a group of people talking next to you 
+Hahaha I think it's great! 
+I agree hahaha.. 
+Although they are noisy, you choose to remain in the classroom as it is almost time for class. 
+At this point, you faintly hear them mention [d]'s name. 
+[d] was a student in your class whom you didn't know very well but you remember well because [chars[3][2]] has a birthmark on [chars[3][3]] face
+{size=-10}...tease...take...homework...{/size}
+You seem to hear something.
+Hahahahaha...
+Their laughter is somewhat gloating.
+After a while, [d] returns to the classroom and you see the three people immediately return to their seats, but there is some eye contact.
+You feel something is wrong, but fortunately you have [d]'s contact details.
+"Hey dude, I just heard that some people seem to be trying to do something about your homework. "
+"Huh? What are they going to do? "
+"I'm not really sure, but you should be careful anyway."
+"Oh, Ok, thanks."
+After class, you are relieved to see him out the door with his homework. 
+At lunch, you feel really happy because you helped a classmate.
+However, when you return to class, you find [d] anxiously rummaging through [chars[3][3]] bag. 
+You walk over.
+What's happened?
+ I can't find my wallet, I put it in my bag and it was gone when I came back from dinner. 
+...
+You think it's the same people who did it and you're a bit angry.
+What I told you before was planned by [abc], and I think they took your wallet too. 
+What's wrong with them? why are they doing this? I need to talk to them. 
+...
+They are a little surprised to see you approaching. 
+What's the matter?
+Did you take my stuff? 
+Huh? What's that? 
+My wallet.
+No, why would you think we took it?
+Stop pretending, I heard what you said before.
+Oops, you've got great hearing. 
+Then there's nothing we can do if we're overheard. 
+With that [chars[0][2]] walks to the corner of the classroom and takes out the wallet.
+Don't do that again, it's stealing, okay? 
+Don't be so serious, it's just a joke you know.
+Do you think we find it funny? 
+Forget it.
+[d] drags you away. 
+Back in [chars[3][3]] seat, [chars[3][2]] looks a bit down in the dumps 
+Thank you.
+It's what I should do.
+With that [chars[3][2]] gets up and walks out of the classroom and waited until class was over before returning. 
+Well done for stepping up to the plate!
+Keep going!
+Not knowing what they want, you leave them alone for the time being. 
+After class, [d] goes out and you see the three of them gather around. 
+You don't feel right. 
+You walk over.
+What are you playing? Can I join in?
+Er..no? We're not playing anything.
+Yeah, yeah, we're just talking. 
+They look a little embarrassed and don't look directly at you.
+I actually heard you guys talking about it earlier and I don't think it's good behavior to poke fun at other people like that.
+I don't know what you're talking about. 
+Are you gonna take [chars[3][3]] homework?
+...
+This is already considered theft. 
+...We won't do it again, don't you tell him.
+Don't do this to others either.
+Well......
+With that they leave and you return to your seat.
+d returns to the classroom near the beginning of class, but [chars[3][2]] doesn't know what's going on.
+Well done for stopping a bullying session that hadn't even happened yet, that's more likely to reduce the damage they cause.
+Eh, so can I join you? 
+Uh, nothing really, just thinking about homework.
+Ah, I actually can't quite figure out how to write my homework, let's do it together!
+Oh, oh well, then ...... it's almost time for class, so let's go back to our seats and have a look.
+Yeah right, back to our seat for discussion.
+So you go back to your seats and pretend to continue the discussion with them.
+Class starts and [d] returns to class, unaware of what has happened. 
+[abc] see you acting like this and don't go back to doing so later. 
+Well done, you stopped a bullying session in advance.
+But perhaps you could have just cautioned them not to do such a thing, otherwise they might have continued to do so if you hadn't been there.
+Chapter two
+A new class for a new semester, and a class that is still largely filled with people you don't know. 
+You sit restlessly in your chair alone, looking for anyone you know.
+Fortunately you see two of your former classmates [d] and [e], and you greet each other, but they are seated far away from you.
+...
+After the whole day, you get to know the people around you a little.
+Hey, would you like to have dinner together? So that we can get to know each other better.
+Good idea! I'd to have some chips!
+Sure, sounds great.
+..Sorry, I'm not available tonight.
+That's fine, but you have to join us next time.
+Haha, ok. Have fun.
+...
+...
+You have a great meal with them, and you find that you are pretty enjoy spending time with them.
+"It's a good start." You think to yourself.
+...
+For the next few days, you live a normal school life.
+In most time, you stay with classmates sit around you like lunch or rest time, but you also have chat or play with [d] and [e] sometimes.
+...
+[c], why are you eating this again?
+Err, I just like it...
+Spaghetti fanatic? You should have some meat and vegetables, it's not healthy.
+Well, But I think [chars[2][2]]'s healthier than you.
+Huh? Why?
+Look, [chars[2][2]] never buys drinks, only drinks water, but you have coke everyday.
+That's a lot of sugar you know.
+...Make sense...Wait, but last time I gave [chars[2][4]] a can of coke and [chars[2][2]] took it, which means [chars[2][2]] also drinks it right?
+Haha...
+You notice [c] smiling awkwardly.
+But still much less than you.
+Wait and see, I'll drink diet coke from tomorrow.
+Haha, I bet you won't last two days.
+...
+...
+However, the longer you know [chars[2][4]], the more you think his family might not be well off.
+Let's have a group, shall we? We can share homework there.
+Oh that's great, we should add friends first.
+Everyone takes their phone out, except [c].
+[c], is there anything wrong? What's your account?
+[c]@hmail.com
+...
+Alright, got it, you need to accept my apply.
+Ah, ok.
+Finally [chars[2][2]] takes phone out.
+Wow, is it jphone6 or 6s? I miss it so much!
+It is, it's been six years?
+Yeah...my mom used it.
+All done, I've added you all, I'll create a group.
+...
+Also, [chars[2][2]] barely change [chars[2][3]] clothes.
+After a while, you find that [chars[2][2]] often doesn't join in your conversations, and [chars[2][2]] doesn't attend the usual gatherings at all.
+Gradually, people stopped inviting [chars[2][4]] to after-school activities
+...
+After a month.
+One day, after the class and you are ready to go for lunch.
+At the moment, [c] is discussing a problem with the teacher and you are waiting for [chars[2][4]] to join you.
+Let's go to the canteen.
+[pov], hurry up or there will be a queue later
+Oh, ok. alright.
+You're a bit surprised they didn't wait for [c]. You wonder if [c] said ahead of time for us to go first or if [chars[2][2]]'s not going to lunch today.
+...
+By the time you have served your meal and sat down to eat, you notice that [c] has come to the canteen alone and has found a seat to eat alone.
+You are a little confused.
+Why does [c] go to lunch alone?
+Because [chars[2][2]] doesn't have anyone else to eat with, right?
+So why not come to us?
+Maybe [chars[2][2]] has found out that we don't want to eat with [chars[2][4]].
+Huh? Why? 
+Don't you think [chars[2][2]] can't actually play with us?
+Does [chars[2][2]]?
+[c] never goes out with us, [chars[2][3]] phone doesn't support the latest games, and [chars[2][2]] doesn't join in with the usual conversation.
+Huh...
+You don't know what to say and eat in silence.
+...
+After eating and returning to class, [c] come back a while later, but [chars[2][2]] doesn't ask where you had gone to eat. 
+It's as if [chars[2][2]]'s used to being treated this way, when in fact you think back and [chars[2][2]]'s never initiated a conversation with you. 
+But [chars[2][2]] was very willing to respond when you approached [chars[2][4]] to talk, it didn't seem like [chars[2][2]] didn't want to talk to you. 
+You decide to...
+...
+The next day at noon.
+You guys go ahead and eat today, I have something to do.
+And with that you walk out of the classroom. 
+When [a] and [b] have left, you go back to the classroom. 
+Want to go to dinner together? 
+You speak to [c].
+Huh? Uh, yeah, let's go. 
+So you go to the canteen together and pick a seat away from [a] and [b]. 
+...
+You eat your meal in peace. 
+...
+When you return to class, you notice that [a] and [b] look at you a bit strangely and don't offer to greet you. 
+Feeling a little strange, you sit down and take out your phone and you find a message from [d]. 
+"What's going on with you guys? I was sitting behind [a] and [b] just now and they seemed to be upset with you "
+"Ah, maybe because I didn't go to lunch with them?"
+"They said they just told you something yesterday and today you like this or something."
+"...... I see, thank you."
+You didn't expect them to find out and it was a bit embarrassing.
+And the next day noon, they don't invite you and go for the lunch.
+You don't have to do this, it's not worth losing a friend for me.
+It's okay, I'd rather be with you.
+...
+...
+For a week since then, [a] and [b] have stopped inviting you to their events, although you will have dinner with [c], and [d] and [e] will strike up a conversation with you. 
+But sitting next to someone and not being able to communicate makes you uncomfortable.
+So you become better with [chars[2][4]] and [chars[2][2]] becomes more forthcoming with you, but the rest of the class doesn't get on as well with you because of [a] and [b].
+...
+The next year, you are in different classes and you meet new classmates.
+However, [c] doesn't meet anyone like you, and becomes alone again as before.
+...
+It's good for you to help a person like [chars[2][4]], but sometimes the power of one person is not enough.
+Let's try it again!
+Obviously it's better for you to be on good terms with [a] and [b].
+So find a time when [c] isn't around.
+Can I join you for lunch today?
+[a] and [b] look at each other.
+Sure.
+Wise choice.
+At noon, you go to lunch together.
+When you see [c] eating alone at lunch time, you feel a bit bad but you can't do anything about it. 
+Back in the classroom, [c] doesn't say anything to you, as if [chars[2][2]]'s already expecting this. 
+...
+That's how you get through a normal year. 
+The following year, you move to different classes, meet new friends and [c] remains on [chars[2][3]] own. 
+...
+At least you tried, but sometimes it's hard to make the decision.
+Let's try it again!
+You can't take the risk of being isolated together.
+You've had a normal year and are on friendly terms with most people, but you've been sorry in your heart for [c]. 
+Every time you see [chars[2][4]] alone, you always feel like you should have done something about it, but it's too late.
+The following year, you move to different classes and never speak to each other again. 
+It's hard to take the risk, but maybe you can have a try.
+Let's do it again.
+You don't think you can handle this alone, so you call up [d] and [e] after class.
+You tell them what's going on. 
+......This kind of thing happens all the time, some people are like this.
+I don't think people should isolate others just because of that.
+Yes, so I wondered if I could help him. 
+Yes, we haven't had any contact with [chars[2][4]] before and don't know about [chars[2][4]], but we're happy to have a try. 
+En.
+So the next day at noon.
+You guys go ahead and eat today, I have something to do.
+And with that you walk out of the classroom.
+When [a] and [b] have left, you go back to the classroom. 
+Want to go to dinner together? 
+You speak to [c].
+Huh? Uh, yeah, let's go. 
+On the way.
+You don't have to do this, you'll be isolated with them if you stay with me. 
+What? Why do you say that? I just came back and saw you were still here so I asked you to come along. 
+I see...
+When you get to the canteen, after serving your meal you go straight to your friends.
+He is somewhat surprised. 
+They are all from our class, I were in same class with them last year too! 
+Hi, my name is [d].
+I'm [e].
+Ah, hello! My name is [c].
+You don't have to give up on yourself, we'd all like to be your friends 
+...Thanks...
+...
+After that, you have lunch together every day, and you usually talk to [chars[2][4]].
+Although [chars[2][2]] is still unable to participate in the after-school activities, this does not hinder your relationship.
+The rest of the class is slowly becoming friends with [chars[2][4]] when they see how close you four are. 
+Slowly he settles into the class. 
+The next year, you're not in the same class, but you still keep in touch with [chars[2][4]].
+He is grouped with some of the others in the class and they maintain the same good relationship and integrate into the new class.
+Great job! You changed your friend's later life.
+Chapter three
+You are a computer science student, In this term, you have enrolled in a course with medical students and today, it is the first session of the course.
+...alright, please follow the groupings on the screen and start your group discussion.
+Introduce yourself first and choose a disease you interested.
+...
+After a while, all your group members are sit around the table, you find out that you don't know any of them.
+Hi guys, I'm [a], and I'm major in Health Data Science.
+I major is Health Data Science too, I'm [b], nice to meet you!
+Me too, you can call me [c].
+My name is [pov], I'm major in Computer Science. I'm not quite familiar with the medication field so maybe I need your help.
+Haha, sure.
+{size=-10}...Hello everyone, my name is [d], uhh I'm major in Biotechnology.{/size}
+You find that it's really hard to hear [d]'s voice, maybe [chars[3][2]] is not good at speaking English.
+So, then we need to choose a disease, right?
+yeeeees. 
+yeah.
+right.
+{size=-10}...yes.{/size}
+any ideas?
+{size=-10}...chronic pharyng...{/size}
+how about COVID-19? It should be interesting to learn about it.
+Oh that's good, I agree, how do you think?
+Sounds great, and maybe we could get more marks since it's a new disease.
+*Nod
+You think [chars[0][2]]'s got a point.
+{size=-10}..But I heard teacher say it's better to choose a uhhhh chronic disease, COVID-19 may not be proper...{/size}
+Oh yes, the teacher did say that, I almost forgot.
+Forgot what?
+Meanwhile, both [b] and [c] looking at you in confusion.
+[d] just said we should choose a chronic disease, right?
+Perhaps you sit next to [d], so you are the only one noticed [chars[3][3]] voice.
+{size=-10}..Yes, it's what teacher said...{/size}
+Oh, Ok, so any other ideas?
+{size=-10}...I'm a little bit interested in chronic pharyng...{/size}
+How about Rheumatoid Arthritis? My grandpa has this disease, so I want to learn something about it.
+Cool! He would be so proud of you! How do you think? I'd like to do this.
+{size=-10}Ah, sure, good idea...{/size}
+I think it's pretty good.
+Let's do it!
+In order to communicate after the class, you friended each other on social media platforms and created a group.
+[a], [b] and [c] seem to be very chatty, while you and [d] just say hello politely.
+...
+After dinner, you decide to do something.
+I can't wait to watch the Love, Death & Robots 2! It's must be better than season 1!
+...
+Let me see if I can find anything on Google..
+Rheumatoid Arthritis...enter
+Oh, there's a lot of useful information, I have to note them down..
+Alright, they can save us a lot of time...
+Ok them, it's time to rest?
+I can't wait to watch the Love, Death & Robots 2! It's must be better than season 1!
+...
+I wonder if they searched the information as well.
+{image=phone.png}"Hey guys, I found some information about the Rheumatoid Arthritis, hope it can help."
+{image=phone.png}"Oh sweet! You are so hardworking! We are still having party with [b] and [c]! I'll check them later!"
+{image=phone.png}"LOL, Have fun!"
+{image=phone.png}"I found some too, you can check as well."
+{image=phone.png}"https://www.nice.org.uk/... It's about causes of disease"
+ "https://www.versusarthritis.org/... basic information"
+ "https://www.... treatment"
+ "......"
+{image=phone.png}"OMG that's too much, you're amazing!"
+{image=phone.png}"Thank you haha,,"
+You spend a lot of time to look them through, and surprisingly, they are all very useful.
+...
+A week later
+Today is your second session of the class, and you have a group conversation after the lecture as well.
+Wow, it's been a week, so what we need to do today?
+We should summarise the information we found.
+{size=-10}...we also need to plan our uhhh swimlane diagram, I'll send an example to the group ...{/size}
+Ok! Summarise..summarise, what we have right now? Oh, let me check our group...
+[a] start to use [chars[0][3]] phone.
+You haven't seen them yet? It's already a week.
+I was drunk! And I totally forgot them.
+Alright alright, we can do it now.
+Actually I have read them so maybe I can help, and [d] has already written the content after the link.
+{size=-10}...yeah, these are easy to summarise, so I'll just write them out...{/size}
+Oh [povname] you are so kind! Let's begin..
+...
+Oh this artical gonna be useful, there is a lot of data.
+Yeah, and this one as well. We don't need to find them ourselves, lucky!
+{size=-10}...uhhh it's only half an hour left, I think we need to talk about the swim..uhh..diagram...{/size}
+How about this? It describes some symptoms, I think it's pretty complete.
+Indeed, they all can be used in our report.
+Well..I think we can do it latter, and talk about our swimlane diagram?
+Oh! Thank you for the reminder, (*Look at the clock), we need to hurry up! Come on, [b], [c], let's do it first.
+Uhhh, What is swimlane?
+{size=-10}...It's a kind of , ehhh, flowchart, I have sent one in the group...{/size}
+I see! Look, I found an example.
+You find that [c]'s example is exactly the same as [d]'s
+...
+It's quite a coincidence haha.
+What coincidence?
+Look, [c] has showed the same picture as [d].
+...Wow, quite a coincidence indeed.
+Alright, now we know what it looks like, so...I think we first have to decide how many phases we need?
+Well, if we go to the hospital, we need to do some examinations first?
+{size=-10}...maybe we need to make an appointment...{/size}
+Yup, and then the doctor will diagnose us with the result.
+Then comes the treatment phase?
+Exactly, do we need to include appointments?
+Oh yes, It should include all parts.
+...
+You notice [d] seems like [chars[3][2]] wants to say something, but in the end [chars[3][2]] didn't say anything.
+Perfect, then what roles do we need?
+Who do we have to make an appointment with?
+Nurse?
+And we can also do it on website, I remember our teacher said we should think about the data part as well, that's why I am in this group haha.
+Yeah, make sense.
+...
+...You continue the discussion, but [d] doesn't participate anymore and is taking some notes on [chars[3][3]] own
+This evening, you start to work on that swimlane.
+Looking at the notes you took, you decide to...[x]
+You think you have had enough discussion for the afternoon and start drawing swimlane diagram from your notes.
+It's quite easssssy, I've already got all the phases and roles, just link them togeter...
+...
+Wait, what podiatrist gonna do...I forgot to note that down...
+...
+OMG there are too many lines here, I have to separate them a bit...
+...
+Can't these boxes be fixed in the grid? I have to put them in everytime I resize the grid!
+...
+...
+Alright! I'm done today, counting on you, tomorrow's me!
+...
+...
+...
+{image=phone.png}"..Are you there?"
+Suddenly [d] sends you a message
+{image=phone.png}"Yeah, what's up?"
+Two days later.
+Finally...before the deadline...
+Now just upload it...
+I've drawn up all the discussion, so I should get high marks, right?
+Forget it, that's it! I can at last get back to watching my Love, Death & Robots 2!
+You are worried about missing something and suggest in the group that you want to do it together.
+{image=phone.png}"Hi guys, do you want to finish the swimlane together? I'm afraid I've missed some points"
+{image=phone.png}"Sure, but I think we have alreally found them all."
+{image=phone.png}"Come on! Believe in ourselves, just follow the note and we will get good grades."
+{image=phone.png}"Lol I hope so."
+...
+...
+{image=phone.png}"..Are you there?"
+Suddenly [d] sends you a message
+{image=phone.png}"Yeah, what's up?"
+Two days later.
+Finally...before the deadline...
+Now just upload it...
+I've drawn up all the discussion, so I should get high marks, right?
+Forget it, that's it! I can at last get back to watching my Love, Death & Robots 2!
+{image=phone.png}"Hi, are you there?"
+You send a message to [d]
+{image=phone.png}"I am, is there anything wrong?"
+{image=phone.png}"Yeah...I'm just not sure about our diagram.."
+{image=phone.png}"I don't know, but I'm afraid we missed something..."
+{image=phone.png}"I agree..."
+{image=phone.png}"..Really? I think it's pretty good. I'll just follow what we discussed."
+{image=phone.png}"Oh really? I'm relieved then, thank you."
+{image=phone.png}"...Never mind..."
+Two days later.
+Finally...before the deadline...
+Now just upload it...
+I've drawn up all the discussion, so I should get high marks, right?
+Forget it, that's it! I can at last get back to watching my Love, Death & Robots 2!
+Week three
+...Well, that's it for today's lesson, if you have any more questions you can come and see me later.
+The rest of the discussion time is reserved for you to discuss your presentations and PPTs for next week. 
+By the way, I have finished looking at all the swimlane diagrams you submitted from last week, the grading and rubric will be uploaded to the website by Thursday. 
+...
+Hey, How are your swimlanes?
+Easy peasy, I just spent a day on it.
+Me too, we've had enough discussions, haven't we?
+Well, I'm still not familiar with the medical field and it still took me a few days
+Let's see how many points we can score
+We gonna win this!
+...
+...
+{image=phone.png}"Jesus, I just got 50...the teacher said I missed a big part!"
+{image=phone.png}"Me too! Why?? We should have found them all!"
+{image=phone.png}"I don't understand, I'll talk to him."
+You find your grade is not good as well.
+You didn't say anything, so as [d]...
+The next day.
+{image=phone.png}"I just asked the teacher about our diagram."
+{image=phone.png}"He said we all missed relapse part, except [d]??"
+{image=phone.png}"Why [chars[3][2]] didn' tell us??"
+{image=phone.png}"Really? what the..."
+{image=phone.png}"[chars[3][2]] is so selfish! We are in the one group, how could [chars[3][2]] did this??"
+{image=phone.png}"..."
+{image=phone.png}"Let's just leave [chars[3][4]], we can do well on ourselves!"
+After this, you never talk to [d] again.
+[d] has never joined the discussion since then, tt seems like there are only 4 of you in the group.
+Things have gotten worse.
+Oops! You don't seem to be very good at getting on with [d], maybe you need some opportunities to talk to him.
+Let's try it again!
+...
+{image=phone.png}"I think they missed a big part..."
+{image=phone.png}"Rheumatoid arthritis is not a disease that can be easily cured and I have looked into it before and found that many patients have relapses"
+{image=phone.png}"Oh really?? I totally missed it.."
+{image=phone.png}"...Yeah, If our teacher is familiar with this or have looked it up like I did, he will have thought that our swimlane diagram would have had a relapse phase..."
+{image=phone.png}"Oh my god...thank you very much...I certainly wouldn't have realised this if you hadn't warned me."
+{image=phone.png}"It's okay, after all, you've helped me before..."
+{image=phone.png}"Have I? I just did what I felt I had to do."
+{image=phone.png}"At least I know someone will listen to me."
+{image=phone.png}"Because what you said does make a lot of sense."
+{image=phone.png}"...Thank you..."
+Wait...What would happen if they found out we were the only two who scored higher...I don't think anything good will come of it...
+Should I remind [chars[3][4]]?
+{image=phone.png}"Do you want to tell them about this? I am sure they will be very grateful to you"
+After a while
+{image=phone.png}"...Well, if you want, but I don't think they'll thank me anyway..."
+{image=phone.png}"At least I'll thank you for them."
+...
+{image=phone.png}"Hey guys, I just discussed with [d] and [chars[3][2]] found something I think is really important."
+{image=phone.png}"To be honest, I think I would have failed this assignment if [chars[3][2]] hadn't warned me"
+You send a screenshot of your conversation with [d]
+{image=phone.png}"Wait what is it, relapse? Really?"
+{image=phone.png}"Holy..that's close..."
+{image=phone.png}"[d] said [chars[3][2]] is not good at communication but it's really important for our group, so [chars[3][2]] asked me to tell you about this."
+{image=phone.png}"And I think we should discuss about our roles again, what do you think, [d]?"
+{image=phone.png}"...You don't have to do this..."
+[chars[3][2]] send you a personal message.
+{image=phone.png}"You deserve it, they should know what you did."
+{image=phone.png}"..Alright..."
+{image=phone.png}"..Actually is not only relapse, some medicines for rheumatoid arthritis can cause some other symptoms."
+{image=phone.png}"Like lung infection, which is a common side effect, so we need to add Pulmonologist."
+{image=phone.png}"Make sense."
+{image=phone.png}"And Orthopedist is also required, ..."
+...
+...
+After a long discussion
+{image=phone.png}"...You are right, we did miss a lot of things."
+{image=phone.png}"Haha, although [chars[3][3]] voice is relatively low and you may not notice it, I sat next to [chars[3][4]] and I found that the points [chars[3][2]] made were important."
+{image=phone.png}"..Well, I just have time to read more articles about it..."
+{image=phone.png}"No, you've really helped, thank you very much."
+{image=phone.png}" I will take your thoughts more seriously in the future."
+{image=phone.png}"...I'll try my best"
+...
+...
+{image=phone.png}"Hey! I've seen my results! I can't believe it! I've never gotten a score above 90!"
+{image=phone.png}"Me too! It's crazy! It all thanks to [d]."
+{image=phone.png}"*Similing We all did a good job."
+{image=phone.png}"You saved us."
+{image=phone.png}"Accept our thanks! We can't do this without you."
+{image=phone.png}"..ok.ok, and thank you all,,,"
+...
+...
+After this, the group always pays more attention to what [chars[3][2]] has to say and will take the initiative to ask [chars[3][4]] what [chars[3][2]] thinks.
+He gradually settled into the group and is able to speak more naturally.
+You become very good friends.
+Good job! You've made every choice right.
+Hope you do as well in the rest of the story
+{image=phone.png}"I'm not sure...I don't think they will pay attention to it, so just keep it between us maybe better..."
+{image=phone.png}"Never mind! It's all up to you. Thank you anyway!"
+{image=phone.png}"You are welcome."
+...
+...
+{image=phone.png}"Jesus, I just got 50...the teacher said I missed a big part!"
+{image=phone.png}"Me too! Why?? We should have found them all!"
+{image=phone.png}"I don't understand, I'll talk to him."
+You didn't say anything, so as [d]...
+The next day.
+{image=phone.png}"I just asked the teacher about our diagram."
+{image=phone.png}"He said we all missed relapse part, but you and [d] did not??"
+{image=phone.png}"Why you didn' tell us??"
+{image=phone.png}"Calm down, calm down. [d] told me about this but I'm not sure it's right or not, so..."
+{image=phone.png}"We could discuss about it, right?"
+{image=phone.png}"My bad, I'll tell you next time, I promise."
+If you had listened to [chars[3][4]] before...
+After this, nothing has changed among the group.
+You are the only one who talk to [d], and [chars[3][2]] doesn't really fit in with the group.
+You are still the same.
+Not bad! You become a friend of [d], but maybe you can do it better, can't you?
+Let's try it again!
+...
+{image=phone.png}"Jesus, I just got 50...the teacher said I missed a big part!"
+{image=phone.png}"Me too! Why?? We should have found them all!"
+{image=phone.png}"I don't understand, I'll talk to him."
+You didn't say anything, so as [d]...
+The next day.
+{image=phone.png}"I just asked the teacher about our diagram."
+{image=phone.png}"He said we all missed relapse part, but you and [d] did not??"
+{image=phone.png}"Why you didn' tell us??"
+{image=phone.png}"Calm down, calm down. [d] told me about this but I'm not sure it's right or not, so..."
+{image=phone.png}"We could discuss about it, right?"
+{image=phone.png}"My bad, I'll tell you next time, I promise."
+If you had listened to [chars[3][4]] before...
+After this, nothing has changed among the group.
+You are the only one who talk to [d], and [chars[3][2]] doesn't really fit in with the group.
+You are still the same.
+Not bad! You become a friend of [d], but maybe you can think about how to handling interpersonal relationships, can't you?
+Let's try it again!
+...
+Chapter four
+Usually you live in a student residence with three roommates.
+Although you have your own bedrooms, you share bathroom, toilet and kitchen and often chat in the common areas.
+You are in the room on the far side, [a]'s room is next to yours, then [b]'s and finally [c]'s.
+One day after dinner, you sit in the sofa chat together.
+Have you heard about supercall's new game? It looks so cool!
+Oh really? I've seen its promotional video before and was quite interested.
+Yes! We can play it next week, let's do it together!
+Sure, how about you two?
+It sounds interesting, but we are both working on our group work you know, maybe after that?
+It's reaaaaally hard, I'm so jealous you didn't take this course.
+Haha! This is where the importance of prior research comes into play.
+Well, actually my course is kind of hard too, it's all about medication and I know nothing about it!
+I'm particularly scared of it now for assigning homework, I might have to spend ages on it.
+So why on earth did you choose that?
+It looked easier than the others at the time, but I've changed my mind now.
+God bless you bro.
+Speaking of which, were you singing in the room yesterday?
+Oops, you heard that? That's so awkward...
+You know the soundproof here sucks, but you're actually quite good at singing, don't worry.
+Wow, I want to hear you sing! Come on!
+Wait, hold on hold on...Why did the topic change here???
+Now this is your stage, please.
+Alright alright...
+...
+...
+A week later at the same time
+Hey [b], I can't try that game tomorrow, my teacher just assigned a new homework, and I have absolutely no idea on how to do that.
+No worries, I've asked some of my friends to join me and I'll definitely carry you when you're done with your homework.
+Of course, I'm counting on you.
+Now it's your turn! We're almost done.
+Nooooo!
+...
+Second day
+After dinner, you went back to the dormitory, but [b] is not in the kitchen as usual.
+Where is [b]?
+Flew back to room right after the dinner.
+{size=-10}...watch out!...{/size}
+*Sigh Now you hear [chars[1][4]], that game seems so attractive.
+I want to try that too...I need to hurry up.
+Good luck dude, I've heard [chars[1][4]] screaming in the house all day, I'm even tempted to give it a go.
+Stop seducing me, I can't resist it!
+{size=-10}.....good job!......{/size}
+Haha alright, do your homework then.
+Roger that sir.
+{size=-10}......kidding me? What the .... are you doing??...{/size}
+You shrug at them and walk back to your room.
+...
+12p.m.
+{image=phone.png}"Holy moly...you're still playing the game."
+{image=phone.png}"I remember you have class tomorrow morning, right?"
+...
+Next day, you find their chat after you sleeping.
+1 a.m.
+{image=phone.png}"Come on! It's the first day, I have to work hard."
+{image=phone.png}"...OK...But if you spend that time studying, you wouldn't fail the course"
+{image=phone.png}"Don't be so mean *Cry"
+{image=phone.png}"G9, I'll get back to playing!"
+{image=phone.png}"*Sigh I hope I could..."
+Why is [a] up this late? It's not like [chars[0][4]].
+You whisper and mutter.
+...
+After washing up you walk out of the room, only [a] and [c] is having their breakfast.
+Morning! Did [b] go to school already?
+*Yawn Maybe [chars[1][2]] is still dreaming about [chars[1][3]] game.
+Really? What time did he sleep yesterday?
+After 3 a.m.? I'm not sure...*Yawn It wouldn't be very early anyway.
+Jesus, it's crazy.
+Who says it isn't?
+After the breakfast, [b] still doesn't show up, so you go to school without [chars[1][4]].
+12 p.m.
+{image=phone.png}"Jeez, I've slept in!"
+{image=phone.png}"Good morning! How is your course?"
+{image=phone.png}"Let me check..."
+...
+{image=phone.png}"Oh shoot, teacher has called the roll!!"
+{image=phone.png}"Congrats."
+{image=phone.png}"And I have to turn in my homework today!!"
+{image=phone.png}"You have to pray that the teacher is still at school."
+{image=phone.png}"GTG"
+{image=phone.png}"Good luck lol"
+...
+At dinner, you four sit together.
+Dit you find the teacher?
+Thank god yes, but the teacher said it's the last time, so if I do it again I maybe fail the course..
+Can I say you deserve it?
+Well...
+So how about the game? 
+Wonderful! I haven't been such excited for years. supercall is the god! 
+Then are you gonna play all night today?
+Won't be that long, but i dont have to get up early tomorrow, so i need to take the chance!
+Well, i have to though. *Yawn
+you look so sleepy, why you sleep that late yesterday? 
+*Sigh Not a big deal, hope it won't last too long... 
+You dont quite understand, but you choose not to look deeper.
+After the dinner, [b] rush to the room again, and soon [chars[1][3]] voice come out again.
+...
+Second day, you find their chat again
+2:27 a.m.
+{image=phone.png}"Do your friends stay up at night too?"
+2:53 a.m.
+{image=phone.png}"They are not in UK lol, they just finished their dinner."
+{image=phone.png}"Jeez I forgot that...I thought your friends were planning to skip school too."
+3:09 a.m.
+{image=phone.png}"It was an accident! I didn't plan that."
+{image=phone.png}"So you planned to sleep just 4 hours yesterday?"
+{image=phone.png}"I planned to catch up on sleep in class lol."
+{image=phone.png}"But I was so tired that I forgot to set my alarm clock"
+{image=phone.png}"Why are you both awake, don't you need to get up at morning?"
+{image=phone.png}"You guess..."
+{image=phone.png}"Guess what?"
+{image=phone.png}"g9"
+{image=phone.png}"g9!"
+...
+You become more confused, but both [a] and [c] went to school, so you decide to ask after dinner.
+Surperisingly, [b] is the only one have dinner at kitchen, and you need to do your homework, so you go back to your room.
+Saturday, after you waking up, you find another chat.
+1 a.m.
+{image=phone.png}"Come on dude, you know the soundproof here not good right? @[b]"
+1:13 a.m.
+{image=phone.png}"Oh sorry, did I disturb you?"
+{image=phone.png}"It’s been 3 days…"
+{image=phone.png}"Sorry I didn’t mean to do that, you should tell me in the first day!"
+{image=phone.png}"I thought it won’t last too long…"
+{image=phone.png}"I’m not trying to stop you from playing, but your scramming is reaaaally loud…"
+{image=phone.png}"Got that, I will definitely pay attention to that, sorry bro."
+{image=phone.png}"It’s ok, I know you didn’t mean to it."
+Oh…that’s it, I finally got it…
+It’s good to see them have solved it peacefully though,,,.
+So you decide to focus on your homework for now.
+So you decide to focus on your homework for now.
+after the weekend, you finally finish your homework, and you have time to chat with your roommates. 
+As "usual", [b] does not join you, you decide to 
+You talk about your daily life as before, mostly about your courses.
+I saw your chat on Friday night, how's it going on?
+Just like I said, [chars[1][2]] was so noisy at night, and I could barely sleep those days.
+I thought it would be just first one or two days after that game releasing, but [b] kept scramming, so I had to tell [chars[1][4]].
+Well...that must be a hard time, I'm so sensitive to noise too, luckily I don't live next to [chars[1][4]]...
+That's so terrible...you will never know when [chars[1][2]] would jumpscare you!
+So what's the situation now?
+Much better...at least [chars[1][2]] will not yell all the time, but still sometimes when [chars[1][2]] is excited, so I still get woken occasionally.
+Haha...how about [c]? Don't you have this problem?
+Not that severe, but still a little bit annoying...I can't totally ignore that though.
+May you both sleep well in the future.
+I wish I could...We have an exam on Friday morning, we need to rest well..
+After this, you chat for a while and then go back to the room.
+Nothing much happened during this time, you lived your lives as usual.
+Until Friday.
+12 a.m.
+{image=phone.png}"@[b] Dude I told you we have exam tomorrow right?? And you said you won't play today"
+{image=phone.png}"I didn't want to play, but my friends kept asking me to join them and I was doing my best not to make a sound.."
+{image=phone.png}"Please do better."
+{image=phone.png}"Alright."
+2:15 a.m.
+{image=phone.png}"I've had enough of this, is it so hard not to disturb others?"
+{image=phone.png}"You don't know how to keep your word?"
+{image=phone.png}"I'm ashamed to be in a school with people like you."
+...
+...
+There's a lot more left, all of which is [c] speaking to [b].
+You are scared, right now, you decide to:
+You think you'd better not get involved in the conflict, so you say nothing.
+You send a message to [b] and ask [chars[1][4]] what happened, but apparently [chars[1][2]] is still sleeping at this time, so you wash up first and have a breakfast.
+You go to the kitchen and find that [a] and [c] have already finished their meal and are cleaning up, they look very sleepy.
+Morning, we need to go, see you at dinner.
+Oh, yes, see you.
+[c] waves to you and leaves
+They are going to take the exam, guess I'll just have to wait for b to wake up...
+...
+...
+Around midday
+{image=phone.png}"IDK actually...I didn't make much noise last night for sure..."
+{image=phone.png}"But [c] looked totally pissed off..."
+{image=phone.png}"I have no idea! [chars[2][2]] have never told me about this!"
+{image=phone.png}"It's always [a], I thought [c] didn't care about this."
+{image=phone.png}"Maybe [c] just didn't say it...and you pushed [chars[2][4]] too hard this time..."
+{image=phone.png}"You're right...but I'm sure I was very quiet yesterday, but a person will always make sound you know.."
+{image=phone.png}"I was not there so I can't judge that..."
+...
+...
+You take a look at the time and think [a] and [c] should have their breakfast right now, so you wash up quickly and go to the kitchen.
+They are still eating, so you ask them directly.
+What happened yesterday? You looked so angry.
+I was very angry, [a] had told [chars[1][4]] to keep quiet just for yesterday, and [chars[1][2]] had promised.
+But [chars[1][2]] still played for a long time and made plenty of noise.
+I was doing my best to stay calm, but [chars[1][2]] went too far.
+I understand...
+We got to go, we have exam later.
+OK, good luck.
+...
+...
+So you go back to home and start your homework.
+You send a message to [b] and ask [chars[1][4]] what happened, but apparently [chars[1][2]] is still sleeping at this time
+So you go back to home and start your homework.
+...
+...
+Around midday
+{image=phone.png}"IDK actually...I didn't make much noise last night for sure..."
+{image=phone.png}"But [c] looked totally pissed off..."
+{image=phone.png}"I have no idea! [chars[2][2]] have never told me about this!"
+{image=phone.png}"It's always [a], I thought [c] didn't care about this."
+{image=phone.png}"Maybe [c] just didn't say it...and you pushed [chars[2][4]] too hard this time..."
+{image=phone.png}"You're right...but I'm sure I was very quiet yesterday, but a person will always make sound you know.."
+{image=phone.png}"I was not there so I can't judge that..."
+...
+...
+Evening, you have dinner with [a] and [c].
+Minutes later, [b] come back from school, and start to cook.
+Evening.
+[chars[1][2]] doesn't look very natural.
+Evening, how's your school?
+Not very good, I was so sleepy, maybe I should go to bed earier from today haha..
+Yeah, it's a more healthy lifestyle.
+Oh I'm so hungry, let me see what I can eat tonight...
+[chars[1][2]] start to cook [chars[1][3]] dinner.
+I finished, see you tomorrow.
+Me too. see ya.
+Ah, oh, see you, good night.
+Good night
+[a] and [c] look not want to stay, and leave very quickly.
+...*Sigh
+...
+Well, I'll eat in my room.
+Yeah, I'll go back then, bye.
+...
+The atmosphere is clearly not right, but they all go back to room, so you could do nothing here.
+However, the situation has not improved after a week.
+{image=phone.png}"Hey [pov], I found a good resturant, you have to go with us tonight."
+{image=phone.png}"Sure, four of us?"
+{image=phone.png}"You, me and [c]."
+{image=phone.png}"OK"
+Apprently they don't want to invite [b].
+...
+...
+After a really good meal, you three go back to the kitchen.
+[b] is having dinner.
+Where were you going?
+We went to a new resturant, it's really delicious.
+Oh, great, I'll try next time.
+[chars[1][2]] looks a little bit depressed.
+...
+...
+School
+{image=phone.png}"Wanna have lunch with us?"
+{image=phone.png}"Yup, where are you?"
+{image=phone.png}"Ground floor of canteen, right hand side of the entrance."
+{image=phone.png}"Right there."
+...
+At canteen, while you're serving the meal
+Yo, what's your lunch today?
+Just some pasta, how about you?
+Nah, not decide yet. You alone?
+No, [c] asked me to join them.
+..Alright, then I will eat it alone.
+Uh, see you tonight.
+...
+Another day
+You're having rest at kitchen with [b].
+[a] opens the door
+[pov] do you have any charge cable for iphone? My both devices are dead.
+No, I onlt have a android device.
+Huhhh, I'll ask the guy next door.
+[a] go out of the kitchen.
+...I have that cable, why don't [chars[0][1]] ask me?
+...No idea.
+...
+And another day.
+{image=phone.png}"Do anyone see my spoon? I put it on the table."
+{image=phone.png}"It's not there? I just saw it."
+{image=phone.png}"No, I didn't find it..."
+...
+{image=phone.png}"Oh I found it, it's under the sofa, wired."
+Under the sofa? That's quite far from table...
+I just had dinner with [a] and [c], there was no one else, it shouldn't happen anything like that...
+....It shouldn't...
+...
+...
+Two weeks later.
+You are having lunch with [b].
+...
+Don't you think they're a bit too childish?
+They just keep refusing to talk to me.
+I don't know what they want, we live in a same suite, it can't solve anything.
+And all of my stuffs, don't you suspect them of doing it? That's so wired.
+I'm not sure...At least you don't have evidence..
+But only they had the chance.
+They just want to isolate me, but it's impossible, I have you and it's two versus two, right?
+Haha, I hope it's better to be four together and without v.s.
+...
+A month later.
+Although [b] is still eating and talking with you, it is clear that [chars[1][2]] is not as optimistic as [chars[1][2]] was before.
+But still there's no any improvement between their relationship, or even worse.
+At this point, you think you should...
+You can't just wait like this, so you decide to make some changes.
+To solve this, you need to talk with both sides.
+Which side do you prefer to talk with first?
+Whoever started the trouble should end it..
+{image=phone.png}"Are you OK?"
+{image=phone.png}"Yeah, why?"
+{image=phone.png}"I just asking, actually I want to talk about that thing."
+{image=phone.png}"Well...what happened suddenly?"
+{image=phone.png}"It's been a month, I think there's nothing good to keep this way for all of us."
+{image=phone.png}"...Yes..."
+{image=phone.png}"..I want to help you, but we need to sort it out again."
+{image=phone.png}"..Alright, let's find a place."
+...
+...
+So you know what happened at first right?
+Yes, because of playing at night?
+It was [a] who always talked to me about that, but [c] never did, so I thought [a] was too sensitive, and I didn't cared about it much.
+I thought it was fine until that night. I just played the game, and I swear I was not making noise. I was not to blame for the poor soundproof.
+I don't know how they felt...but maybe you should stop playing just for that night?
+From the results it really should be..I didn't think it would be this bad.
+And I think I did do it wrong.
+Have you apologised to them?
+No, I have no opportunity at all, they don't talk to me.
+Alright..maybe I could talk to them and find a way to solve this.
+Thank you.
+We are friends, right?
+Sure.
+...
+...
+Evening, after the dinner, you sit on the sofa with [a] and [c].
+I talked with [b] today.
+..? What?
+Err, about that thing you know.
+Oh, then? What did [chars[1][2]] say?
+Well, [chars[1][2]] said [chars[1][2]] didn't realise at that time what trouble he was causing you.
+And [chars[1][2]] wouldn't have done that if [chars[1][2]]'d known.
+[chars[1][2]] knows [chars[1][2]] was wrong, and would like to apologise to you, but you have give [chars[1][4]] a chance.
+Did [chars[1][2]] really say that?
+Yeah, of course, face to face.
+Well, I didn't expect that. But if it's [chars[1][3]] real thought, I can give it a try. How about you?
+I had thought [chars[1][2]] had no intention of repenting at all...Since that's what he thinks, I agree.
+Wonderful! Let's get some time together and talk?
+OK.
+En.
+...
+...
+Well, we're all here.
+The second day, all of you are sitting around the table.
+It's been a long time huh.
+Who says it isn't?
+Alright, let's get to the point.
+..Yes, so thank you for giving me this chance. And I have to apologise to you two.
+I didn't know how annoyed I am, and I'm really sorry for what I did. I hope you can forgive me.
+Now that you've apologized, of course we're willing to forgive you. But also we need to say sorry to you.
+Yes, we know we also did something wrong to you. Whatever the reason, I'm sorry.
+...
+...
+Finally, all the people in this room become friends again.
+Well done! You saved your friendship and helped all of them.
+See you in next chapter!
+First I have to get [a] and [c] to be willing to talk...
+Evening, after the dinner, you sit on the sofa with [a] and [c].
+So you're still not going to forgive him?
+Why should I? [b] doesn't deserve it.
+Is that serious?
+In ours view, yes. You know what happened, right?
+Because of playing at night?
+Yes, and [chars[1][2]] kept doing that after I had told [chars[1][4]] lots of times.
+En...
+Actually that's not the point.
+What?
+What I can't tolerate is [chars[1][3]] attitude, [chars[1][2]] didn't care what we say at all.
+And [chars[1][2]] doesn't and [chars[1][2]] has no remorse at all, [chars[1][2]] doesn't think [chars[1][2]]'s wrong.
+To this day [chars[1][2]] has not apologised to us, this is the point.
+So we'll not forgive [chars[1][4]].
+Just in case, did [chars[1][2]] say that [chars[1][2]] think [chars[1][2]] was wrong?
+...
+You reminisce for a moment.
+No...
+Then I have nothing else to say. We can't get along with such a person.
+And I think you should drop the matter and leave it to us.
+Huh...
+...
+...
+Are you going to listen to [chars[2][4]]?
+It was [b] who made the mistake in the first place, so [chars[1][2]] should have taken the initiative to deal with it
+After the chat, you stay at your room.
+No, if I leave it to them, they will never get back again...
+{image=phone.png}"Hi. I have to tell you something."
+{image=phone.png}"What's up?"
+...
+You tell [chars[1][4]] your conversation with [a] and [c].
+{image=phone.png}"So they are waiting for your apology I think..."
+{image=phone.png}"Are they serious? They were the ones who didn't talk to me."
+{image=phone.png}"No way my friend, I know you did it for me, but they do not deserve it."
+{image=phone.png}"They isolate me, and they even threw my stuff everywhere, and now they're blaming me?"
+{image=phone.png}"Listen, just leave it, they are unreasonable."
+...
+{image=phone.png}"Come on! You know they just talked tough, right?"
+...
+{image=phone.png}"I'll think about it."
+...
+...
+One day, you feel a little bit hungry when you are studying.
+So you decide to get some snacks from fridge.
+You take off the headphones, but before you open the door, you faintly hear some people speaking.
+{size=-10}...so I apolopize....{/size}
+{size=-10}.....we need to say sorry to......{/size}
+{size=-10}.......should have found a better........{/size}
+...
+Somehow You feel really relieved.
+Finally...
+You sit back, and a moment later.
+{image=phone.png}"Hi, I talked to them, and we're good now."
+{image=phone.png}"Really?? Oh my god that's awesome!"
+{image=phone.png}"We can finally play togeter again."
+{image=phone.png}"Yes, and it all thanks to you."
+{image=phone.png}"No, you did it yourself. Good job."
+...
+...
+Finally, all the people in this room become friends again.
+Well done! You saved your friendship and helped all of them.
+See you in next chapter!
+{image=phone.png}"I have decided."
+{image=phone.png}"Alright..."
+...
+...
+After this, they become even more conflicted.
+You can't continue to live with them anymore.
+So you decide to leave here.
+You, [b], [a] and [c] become strangers.
+...
+Oops, it's not look great...Maybe you need to change your strategy.
+Let's try it again!
+...
+{image=phone.png}"OK, I got it, if you insist."
+{image=phone.png}"Thank you, but I can handle it."
+{image=phone.png}"Alright..."
+...
+...
+After this, they become even more conflicted.
+You can't continue to live with them anymore.
+So you decide to leave here.
+You, [b], [a] and [c] become strangers.
+...
+Oops, it's not look great...Maybe you need to change your strategy.
+Let's try it again!
+...
+It's a conflict between them, and it was [b] who made the fault first, so it's reasonable for [a] and [c] to do such a thing to [b].
+And their conflict does not impact your relationship with both sides, so it's totally alright to keep this way.
+Or you thought it will keep this way.
+...
+What should you do?
+Two days later.
+Morning, when you are still asleep, you faintly hear the sound of someone moving something outside.
+Who is sorting things out?
+You don't care too much on it, maybe it won't last long time.
+...
+...
+However, it lasts over half an hour, and you can't fall asleep again due to the sound.
+So you have to get up, and go out to check.
+What are you doing?
+Surprising, you find [b] is moving stuff out.
+Oh, morning, Did I wake you up?
+No, I just heard the sound and come to check. So..?
+Ehh, just as you can see, I gonna leave here.
+Leave? Why?
+..Clearly there is no place for me here anymore, of course it's not your fault, and I have to thank you for the last month, or I would not have been able to stand it any sooner.
+You don't have to leave, we can solve this.
+I have talked with the doctor, and she said I should change my environment as soon as possible.
+...
+Sorry.
+Why do you have to apologize, you did nothing wrong.
+I could have done better, let me help you with these.
+Thank you my friend.
+...
+You really regret it, but what you can do to change it..?
+Let's try it again.
+...
+So you send messages to [a] and [c] to have a talk.
+What has to come out and be said?
+I think there's something wrong with [b], I saw [chars[1][4]] went to the psychological consultation room.
+Wow, that's really surprised me.
+What was your plan? Do you have thoughts of reconciliation?
+Our reconciliation depends on [b].
+Yes, you know that at first, we, or I discussed with [chars[1][4]] very gentle, right? But [chars[1][2]] didn't listen to me.
+I talked with [chars[1][4]] about it two or three times? And [chars[1][2]] never cared about it.
+After that night, [chars[1][2]] didn't apologise to us either, and [chars[1][2]] didn't even take it personally.
+That's the point really pissed we off. And so we did something to [chars[1][4]].
+We know that we may do it too far, but it's all because of [chars[1][4]].
+Yeah...But [chars[1][2]]'s not in good condition right now, I'm afraid that something irreversible will happen if this situation continues...
+Huh...But still, if he has no remorse whatsoever, we don't know how to get along with him.
+However, If [chars[1][2]] could apologise to us, then we will do it as well for what we did, is that reasonable?
+I agree..It may good for both sides...So I will talk to [chars[1][4]] about it tomorrow, I hope we could be what we used to.
+I hope so.
+...
+One day, you are on your way home.
+You notice [b] walk out of a building, but not the building where [chars[1][3]] classroom is.
+What's that building for? [chars[1][2]] is not a person to hang around.
+You walk closer, and find the Psychological Consultation Room written next to the front door
+..Psychological consultation? What's going on?
+You are not sure if [chars[1][2]] came here to consult, or if it's about that problem.
+When you back to dorm, [b] is just like usual.
+However, you can not ask [chars[1][4]] about the detail, since it related to privacy.
