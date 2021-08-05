@@ -34,7 +34,7 @@ label start:
 
 
     "Greetings! Welcome to the game."
-    "As you already know, this game is an interactive fiction, and I hope that after playing, you can learn something from it."
+    "As you already know, this game is an interactive fiction, and I hope you can learn something after playing this game."
     "Now first, please enter your name:"
     python:
         povname = renpy.input("What's your name? (your name will not be uploaded)",length=20)
@@ -45,8 +45,8 @@ label start:
 
 
     "Hello, [povname]!"
-    "The game has four small stories, they each have a number of options."
-    "Please be careful, your choices will influence the direction of the story"
+    "This fiction is constructed by four small stories. Each of them has multiple options that you can choose from."
+    "Please be careful, your choices matter: different choices will lead to various endings for this game."
 
 
     call firststory from _call_firststory
@@ -115,7 +115,7 @@ label firststory:
 
     "You are a high school student"
 
-    "One day between classes, you are sitting in your seat looking at your mobile phone and gradually feel the noise of a group of people talking next to you "
+    "One day, during the break, you are sitting in your seat, looking at your mobile phone, and gradually being attracted to the noice of a group of people talking next to you... "
 
     show a1 at center,shaking:
         xzoom -0.4 yzoom 0.4
@@ -135,11 +135,11 @@ label firststory:
 
 
 
-    "Although they are noisy, you choose to remain in the classroom as it is almost time for class. "
+    "Although they are too noisy, you choose to remain in the classroom as the class is going to start shortly. "
 
-    "At this point, you faintly hear them mention [d]'s name. "
+    "At this point, you hear them mention [d]'s name. "
 
-    "[d] was a student in your class whom you didn't know very well but you remember well because [chars[3][2]] has a birthmark on [chars[3][3]] face"
+    "[d] is a student in your class whom you don't know very well. However, you still have vivid memory of [chars[3][4]] because [chars[3][2]] has a birthmark on [chars[3][3]] face."
 
     show c1 at center:
         xzoom 0.4 yzoom 0.4
@@ -148,7 +148,7 @@ label firststory:
 
     abc "{size=-10}...tease...take...homework...{/size}"
 
-    "You seem to hear something."
+    "You seem to hear something, again."
 
     show a1 at shaking
     show b1 at shaking
@@ -173,7 +173,7 @@ label firststory:
         linear 2  xoffset 0
         linear 2  xoffset -3000
 
-    "After a while, [d] returns to the classroom and you see the three people immediately return to their seats, but there is some eye contact."
+    "A while later, [d] returns to the classroom and you see the three people immediately return to their seats, but there are some eye contacts."
     $ renpy.pause(3.0, hard=True)
     hide a1
     hide b1
@@ -182,7 +182,7 @@ label firststory:
 
     menu:
         "Remind [d].":
-            "You feel something is wrong, but fortunately you have [d]'s contact details."
+            "You feel something is wrong, but fortunately you have [d]'s number. You decide to text [chars[3][4]]."
 
             pov "{image=phone.png}\"Hey dude, I just heard that some people seem to be trying to do something about your homework. \""
 
@@ -190,7 +190,7 @@ label firststory:
                 xzoom 0.4 yzoom 0.4
                 xpos 1000
             voice "/audio/msg.mp3"
-            d "{image=phone.png}\"Huh? What are they going to do? \""
+            d "{image=phone.png}\"Huh? What do they want to do? \""
 
             pov "{image=phone.png}\"I'm not really sure, but you should be careful anyway.\""
             voice "/audio/msg.mp3"
@@ -198,13 +198,13 @@ label firststory:
 
             hide d1 with dissolve
 
-            "After class, you are relieved to see him out the door with his homework. "
+            "After class, you are relieved to see [chars[3][4]] leave the classroom with [chars[3][3]] homework in [chars[3][3]] hands. "
 
 
 
             scene mct with dissolve
 
-            "At lunch, you feel really happy because you helped a classmate."
+            "It's lunch time. You feel happy because you helped a classmate."
 
             "..."
 
@@ -225,21 +225,21 @@ label firststory:
 
             "You walk over."
 
-            pov "What's happened?"
+            pov "What happened?"
 
             show d1 at center,shaking:
                 xpos 1000
                 xzoom 0.4 yzoom 0.4
 
-            d " I can't find my wallet, I put it in my bag and it was gone when I came back from dinner. "
+            d " I can't find my wallet, I put it in my bag and it was gone when I came back from lunch. "
 
             pov "..."
 
-            "You think it's the same people who did it and you're a bit angry."
+            "You think it's the same group of people, that tried to steal [d]'s homework, took [d]'s wallet. You feel angry."
 
-            pov "What I told you before was planned by [abc], and I think they took your wallet too. "
+            pov "Remember what I told you before? I think [abc] tried to steal your homework. Now I feel they took your wallet, too. "
 
-            d "What's wrong with them? Why are they doing this? I need to talk to them. "
+            d "What's wrong with them? What are they doing? I need to talk to them. "
 
             show d1:
                 linear 2  xoffset 1500
@@ -258,7 +258,7 @@ label firststory:
                 xzoom 0.4 yzoom 0.4
                 xpos 1600
 
-            "They are a little surprised to see you approaching. "
+            "They [abc] are surprised to see [d] approaching. "
 
             a "What's the matter?"
 
@@ -280,7 +280,9 @@ label firststory:
 
             c "Oops, you've got great hearing. "
 
-            a "Then there's nothing we can do if we're overheard. "
+            "..."
+
+            a "Alright, then there's nothing we can do if we're heard. "
 
             show a1:
                 xzoom -0.4
@@ -289,32 +291,32 @@ label firststory:
                 xzoom 0.4
                 linear 2  xoffset 600
 
-            "With that [chars[0][2]] walks to the corner of the classroom and takes out the wallet."
+            "[a] walks to the corner of the classroom and takes out the wallet."
 
             $ renpy.pause(5.0, hard=True)
 
             pov "Don't do that again, it's stealing, okay? "
 
-            b "Don't be so serious, it's just a joke you know."
+            b "Why are you so serious? It's only a small joke, bro."
 
-            pov "Do you think we find it funny? "
+            pov "I don't find it funny though."
 
             d "..."
 
-            d "...Let's go."
+            d "OKAY! Then Forget it."
 
             show d1:
                 xzoom 0.4
                 linear 2 xoffset -500
 
-            "[d] drags you away. "
+            "[d] drags you back to [chars[3][3]]'s seat. "
 
             hide d1
             hide a1 with dissolve
             hide b1 with dissolve
             hide c1 with dissolve
 
-            "Back in [chars[3][3]] seat, [chars[3][2]] looks a bit down in the dumps "
+            "[d] looks a bit down in the dumps "
 
             show d1 at center with dissolve:
                 xzoom 0.4 yzoom 0.4
@@ -328,6 +330,8 @@ label firststory:
 
             hide d1 with dissolve
 
+            "[chars[3][2]] gets up and walks out of the classroom. When [chars[3][2]] comes back, the class is over."
+
             "..."
 
             "Well done for stepping up to the plate!"
@@ -336,7 +340,7 @@ label firststory:
 
         "Don't think too much about it.":
 
-            "Not knowing what they want, you leave them alone for the time being. "
+            "At that time, you leave [abc] alone because you don't know what they want. "
 
             "After class, [d] goes out and you see the three of them gather around. "
 
@@ -361,7 +365,7 @@ label firststory:
 
                 "Stop them.":
 
-                    "You walk over."
+                    "So you walk over."
 
                     show a1:
                         linear 2 xzoom 0.4 yzoom 0.4 xpos 2200
@@ -370,11 +374,11 @@ label firststory:
                     show c1:
                         linear 2 xzoom -0.4 yzoom 0.4 xpos 1600
 
-                    pov "What are you playing? Can I join in?"
+                    pov "What are you doing? Can I join you guys?"
 
                     show a1 at speaking
 
-                    a "Er..no? We're not playing anything."
+                    a "Er..no? We're nothing nothing. Just chatting."
 
                     show b1 at speaking
 
@@ -382,7 +386,7 @@ label firststory:
 
                     "..."
 
-                    "They look a little embarrassed and don't look directly at you."
+                    "They avoid your eye contacts and look a little embarrassed."
 
                     menu:
                         "Caution them.":
@@ -401,9 +405,9 @@ label firststory:
 
                             abc "..."
 
-                            pov "This is already considered theft. "
+                            pov "This is already considered as theft. "
 
-                            b "...We won't do it again, don't you tell him."
+                            b "...We won't do it again, don't you tell [chars[3][4]]."
 
                             pov "Don't do this to others either."
 
@@ -420,13 +424,13 @@ label firststory:
                                 xzoom -0.4 yzoom 0.4
                                 linear 1 xoffset 1500
 
-                            "With that they leave and you return to your seat."
+                            "They left and you return to your seat."
 
                             hide a1
                             hide b1
                             hide c1
 
-                            "[d] returns to the classroom near the beginning of class, but [chars[3][2]] doesn't know what's going on."
+                            "[d] returns to the classroom as the bell rings, but [chars[3][2]] doesn't know what's going on."
 
                             "Well done for stopping a bullying session that hadn't even happened yet, that's more likely to reduce the damage they cause."
 
@@ -438,7 +442,7 @@ label firststory:
 
                             show a1 at shaking
 
-                            a "Uh, nothing really, just thinking about homework."
+                            a "Uh, nothing really, just thinking about my homework."
 
                             pov "Ah, I actually can't quite figure out how to write my homework, let's do it together!"
 
@@ -448,7 +452,7 @@ label firststory:
 
                             show c1 at speaking
 
-                            c "Yeah right, back to our seat for discussion."
+                            c "Yeah right, let's go sit down and discuss."
 
                             "So you go back to your seats and pretend to continue the discussion with them."
 
@@ -467,9 +471,9 @@ label firststory:
 
                             "[abc] see you acting like this and don't go back to doing so later. "
 
-                            "Well done, you stopped a bullying session in advance."
+                            "Well done, you stopped a bullying event in advance."
 
-                            "But perhaps you could have just cautioned them not to do such a thing, otherwise they might have continued to do so if you hadn't been there."
+                            "But you should just caution them not to do such things ever again. Otherwise, they might have continued to do so when you are not present."
 
                             "..."
 
@@ -501,7 +505,7 @@ label firststory:
 
                         "Remind [chars[3][4]].":
 
-                            "Fortunately you have [d]'s contact details."
+                            "Fortunately you have [d]'s number."
 
                             pov "{image=phone.png}\"Hi, I just saw some people taking something out of your school bag.\""
 
@@ -527,7 +531,7 @@ label firststory:
 
                             "Suprisingly, [chars[3][2]] doesn't look very angry, as if [chars[3][2]]'s used to this sort of thing."
 
-                            "And [chars[3][2]] asks for his homework back from those people afterwards."
+                            "And [chars[3][2]] asks for [chars[3][3]] homework back from those people afterwards."
 
                             "..."
 
@@ -691,11 +695,11 @@ label secondstory:
 
     #3 around 1 2 friends.
 
-    "A new class for a new semester, and a class that is still largely filled with people you don't know. "
+    "It's the first day of a new semester. You are surrounded by people, most of whom you barely know."
 
     scene mcr
 
-    "You sit restlessly in your chair alone, looking for anyone you know."
+    "You sit restlessly in your chair alone, trying to find someone you possibly know."
 
     show d2 at center,shaking:
         xzoom -0.4 yzoom 0.4
@@ -709,14 +713,14 @@ label secondstory:
         linear 2 xoffset 1500
 
 
-    "Fortunately you see two of your former classmates [d] and [e], and you greet each other, but they are seated far away from you."
+    "Luckily, you see two of your former classmates [d] and [e]. You greet them, but they are seated far away from you."
 
     "..."
 
     hide d2
     hide e2
 
-    "After the whole day, you get to know the people around you a little."
+    "At the end of the first day, you get to know the people around you a little more."
 
     show a2 at center,speaking with dissolve:
         xzoom -0.4 yzoom 0.4
@@ -755,15 +759,15 @@ label secondstory:
 
     "..."
 
-    "You have a great meal with them, and you find that you are pretty enjoy spending time with them."
+    "You have a great time with them. You really like these people from the new class"
 
-    "\"It's a good start.\" You think to yourself."
+    "\"It's a good start.\" You talk to yourself."
 
     "..."
 
-    "For the next few days, you live a normal school life."
+    "For the next few days, you enjoy a normal school life."
 
-    "In most time, you stay with classmates sit around you like lunch or rest time, but you also have chat or play with [d] and [e] sometimes."
+    "You spend most of your lunch time or breaks with people that sit around you in the classroom. But, you still get to chat or hang out with [d] and [e] occasionally."
 
 
 
@@ -815,11 +819,11 @@ label secondstory:
 
     "You notice [c] smiling awkwardly."
 
-    pov "But still much less than you."
+    pov "Correct. But [chars[2][2]] still drinks much less coke than you do."
 
     show a2 at speaking
 
-    a "Wait and see, I'll drink diet coke from tomorrow."
+    a "Wait and see, I'll drink diet coke, starting from tomorrow."
 
     pov "Haha, I bet you won't last two days."
 
@@ -839,13 +843,13 @@ label secondstory:
         xzoom 0.4 yzoom 0.4
         xpos 1400
 
-    a "Let's have a group, shall we? We can share homework there."
+    a "Let's create a WhatsApp group, shall we? We can discuss our homework there."
 
     show b2 at center,speaking with dissolve:
         xzoom 0.4 yzoom 0.4
         xpos 1000
 
-    b "Oh that's great, we should add friends first."
+    b "Oh that's great, we should be friends on WhatsApp first."
 
     show c2 at center:
         xzoom -0.4 yzoom 0.4
@@ -864,11 +868,11 @@ label secondstory:
 
     "..."
 
-    pov "Alright, got it, you need to accept my apply."
+    pov "Alright, got it, I have already send you the application. You gonna approve it."
 
     c "Ah, ok."
 
-    "Finally [chars[2][2]] takes phone out."
+    "Finally [chars[2][2]] takes [chars[2][3]] phone out."
 
     show a2 at shaking
 
@@ -877,7 +881,7 @@ label secondstory:
 
     show b2 at shaking
 
-    b "It is, it's been six years?"
+    b "It is, it has been what... six years"
 
     c "Yeah...my mom used it."
 
@@ -896,7 +900,7 @@ label secondstory:
 
     scene blk with dissolve
 
-    "After a while, you find that [chars[2][2]] often doesn't join in your conversations, and [chars[2][2]] doesn't attend the usual gatherings at all."
+    "After a while, you find that [chars[2][2]] doesn't like to join your conversations. Actually [chars[2][2]] doesn't attend the usual gatherings at all."
 
     "Gradually, people stopped inviting [chars[2][4]] to after-school activities"
 
@@ -906,11 +910,11 @@ label secondstory:
 
     "..."
 
-    "After a month."
+    "A month past by."
 
     scene mcr
 
-    "One day, after the class and you are ready to go for lunch."
+    "One day after the class, you are about to have lunch."
 
     show a2 at center:
         xzoom 0.4 yzoom 0.4
@@ -935,14 +939,14 @@ label secondstory:
 
     b "[pov], hurry up or there will be a queue later"
 
-    pov "Oh, ok. alright."
+    pov "Oh, ok. alright. Coming!"
 
     hide c2 with dissolve
 
     hide a2
     hide b2
 
-    "You're a bit surprised they didn't wait for [c]. You wonder if [c] said ahead of time for us to go first or if [chars[2][2]]'s not going to lunch today."
+    "You're a bit surprised that they didn't wait for [c]. You wonder if [c] said ahead of time not to wait for [chars[2][4]] or [chars[2][2]]'s not going to lunch today."
 
 
     scene mct with dissolve
@@ -979,17 +983,17 @@ label secondstory:
 
     a "Maybe [chars[2][2]] has found out that we don't want to eat with [chars[2][4]]."
 
-    pov "Huh? Why? "
+    pov "Huh? No? Why? "
 
     show a2 at speaking
 
-    a "Don't you think [chars[2][2]] can't actually play with us?"
+    a "Don't you think [chars[2][2]] can't actually fit in our group?"
 
     pov "Does [chars[2][2]]?"
 
     show b2 at speaking
 
-    b "[c] never goes out with us, [chars[2][3]] phone doesn't support the latest games, and [chars[2][2]] doesn't join in with the usual conversation."
+    b "[c] never goes out with us, [chars[2][3]] phone doesn't support the latest games, and [chars[2][2]] doesn't even join us for casual conversations."
 
     pov "Huh..."
 
@@ -1027,7 +1031,7 @@ label secondstory:
 
     hide c2 with dissolve
 
-    "It's as if [chars[2][2]]'s used to being treated this way, when in fact you think back and [chars[2][2]]'s never initiated a conversation with you. "
+    "It's as if [chars[2][2]]'s used to being treated this way. And, in fact, when you think back, you realize that [chars[2][2]]'s never initiated a conversation with you. "
 
     hide a2
     hide b2
@@ -1053,7 +1057,7 @@ label secondstory:
 
             pov "You guys go ahead and eat today, I have something to do."
 
-            "And with that you walk out of the classroom. "
+            "You walk out of the classroom. "
 
             scene mcd with dissolve
 
@@ -1082,7 +1086,7 @@ label secondstory:
                 xzoom -0.4 yzoom 0.4
                 ypos 1000 xpos 1000
 
-            pov "Want to go to dinner together? "
+            pov "Want to go to lunch together? "
 
             "You speak to [c]."
 
@@ -1131,7 +1135,7 @@ label secondstory:
                 xzoom 0.4 yzoom 0.4
                 xpos 1000
             voice "/audio/msg.mp3"
-            d "{image=phone.png}\"What's going on with you guys? I was sitting behind [a] and [b] just now and they seemed to be upset with you \""
+            d "{image=phone.png}\"What's going on with you guys? I was sitting behind [a] and [b] just now and they seem to be upset with you \""
 
             pov "{image=phone.png}\"Ah, maybe because I didn't go to lunch with them?\""
             voice "/audio/msg.mp3"
@@ -1172,7 +1176,7 @@ label secondstory:
                 xzoom 0.4 yzoom 0.4
                 xpos 1000
 
-            c "You don't have to do this, it's not worth losing a friend for me."
+            c "You don't have to do this, it's not worthy for you to lose friends for me."
 
             pov "It's okay, I'd rather be with you."
 
@@ -1192,7 +1196,7 @@ label secondstory:
 
             "..."
 
-            "For a week since then, [a] and [b] have stopped inviting you to their events, although you will have dinner with [c], and [d] and [e] will strike up a conversation with you. "
+            "[a] and [b] have stopped inviting you to their events for a week. Although you will have dinner with [c], and [d] and [e] will strike up a conversation with you. "
 
             "But sitting next to someone and not being able to communicate makes you uncomfortable."
 
@@ -1203,7 +1207,7 @@ label secondstory:
                         xzoom 0.4 yzoom 0.4
                         xpos 1000
 
-                    "So you become better with [chars[2][4]] and [chars[2][2]] becomes more forthcoming with you, but the rest of the class doesn't get on as well with you because of [a] and [b]."
+                    "So you become better with [chars[2][4]]. [chars[2][2]], as a response, becomes more forthcoming with you. However, the rest of the class doesn't get on as well with you because of [a] and [b]."
 
                     "..."
 
@@ -1215,7 +1219,7 @@ label secondstory:
 
                     "..."
 
-                    "It's good for you to help a person like [chars[2][4]], but sometimes the power of one person is not enough."
+                    "It's good for you to help a person like [chars[2][4]], but sometimes the power of one person is just not enough."
 
                     "Let's try it again!"
 
@@ -1315,7 +1319,7 @@ label secondstory:
 
                     "..."
 
-                    "At least you tried, but sometimes it's hard to make the decision."
+                    "At least you tried, but sometimes it's hard to keep the decision."
 
                     "Let's try it again!"
 
@@ -1333,9 +1337,9 @@ label secondstory:
 
         "Get in good with [a] and [b]":
 
-            "You can't take the risk of being isolated together."
+            "You can't take the risk of being alienated."
 
-            "You've had a normal year and are on friendly terms with most people, but you've been sorry in your heart for [c]. "
+            "You've had a normal year, and you are on friendly terms with most people, but you've been sorry for [c] secretly in your heart."
 
             "Every time you see [chars[2][4]] alone, you always feel like you should have done something about it, but it's too late."
 
@@ -1377,9 +1381,9 @@ label secondstory:
 
             show e2 at speaking
 
-            e "I don't think people should isolate others just because of that."
+            e "I don't think people should alienate others just because of that."
 
-            pov "Yes, so I wondered if I could help him. "
+            pov "Yes, so I wondered if I could help [chars[2][4]]. "
 
             show d2 at speaking
 
@@ -1397,7 +1401,7 @@ label secondstory:
 
             pov "You guys go ahead and eat today, I have something to do."
 
-            "And with that you walk out of the classroom."
+            "You said to [a] and [b] while you walk out of the classroom."
 
             scene mcd with dissolve
 
@@ -1445,7 +1449,7 @@ label secondstory:
                 xzoom -0.4 yzoom 0.4
                 ypos 1000 xpos 1000
 
-            c "You don't have to do this, you'll be isolated with them if you stay with me. "
+            c "You don't have to do this, you'll be alienated with them if you stay with me. "
 
             pov "What? Why do you say that? I just came back and saw you were still here so I asked you to come along. "
 
@@ -1471,13 +1475,13 @@ label secondstory:
                 xzoom 0.4 yzoom 0.4
                 ypos 1000 xpos 1400
 
-            "When you get to the canteen, after serving your meal you go straight to your friends."
+            "When you get to the canteen, after serving your meal, you take [c] straight to your friends."
 
             show c2 at speaking
 
-            "He is somewhat surprised. "
+            "[c] is somewhat surprised. "
 
-            pov "They are all from our class, I were in same class with them last year too! "
+            pov "They are all from our class, I was also in same class with them last year! "
 
             show d2 at speaking
 
@@ -1503,13 +1507,13 @@ label secondstory:
 
             "Although [chars[2][2]] is still unable to participate in the after-school activities, this does not hinder your relationship."
 
-            "The rest of the class is slowly becoming friends with [chars[2][4]] when they see how close you four are. "
+            "The rest of the class gradually become friends with [chars[2][4]] when they see how close you four are. "
 
-            "Slowly he settles into the class. "
+            "Slowly [chars[2][2]] settles into the class. "
 
             "The next year, you're not in the same class, but you still keep in touch with [chars[2][4]]."
 
-            "He is grouped with some of the others in the class and they maintain the same good relationship and integrate into the new class."
+            "[c] is grouped with some of the others in the class and they maintain the same good relationship and integrate into the new class."
 
             "Great job! You changed your friend's later life."
 
@@ -1574,7 +1578,7 @@ label thirdstory:
 
     $ x = 0
 
-    "You are a computer science student, In this term, you have enrolled in a course with medical students and today, it is the first session of the course."
+    "You are a Computer Science student. This semester, you have enrolled in a course with medical students, and today is the first day of the course."
 
     f "...alright, please follow the groupings on the screen and start your group discussion."
     f "Introduce yourself first and choose a disease you interested."
@@ -1595,7 +1599,7 @@ label thirdstory:
         xpos 300
     with dissolve
 
-    "After a while, all your group members are sit around the table, you find out that you don't know any of them."
+    "All your group members sit around the table. You find out that you don't know any of them."
 
     show a3 at speaking
 
@@ -1609,7 +1613,7 @@ label thirdstory:
 
     c "Me too, you can call me [c]."
 
-    pov "My name is [pov], I'm major in Computer Science. I'm not quite familiar with the medication field so maybe I need your help."
+    pov "My name is [pov], I major in Computer Science. I'm new to the medication field. But I am excited to explore and it's really nice to be in the same group as you guys."
 
     show a3 at speaking
 
@@ -1639,17 +1643,17 @@ label thirdstory:
 
     show a3 at shaking
 
-    a "Oh that's good, I agree, how do you think?"
+    a "Oh that's good, I agree, what do you think?"
 
     show c3 at speaking
 
-    c "Sounds great, and maybe we could get more marks since it's a new disease."
+    c "Sounds great, and maybe we could get more marks since it's a relatively new disease."
 
     pov "*Nod"
 
-    "You think [chars[0][2]]'s got a point."
+    "You think [chars[0][2]] gets a point"
 
-    d "{size=-10}..But I heard teacher say it's better to choose a uhhhh chronic disease, COVID-19 may not be proper...{/size}"
+    d "{size=-10}..But I heard teacher say it's better to choose a uhhhh chronic disease, COVID-19 may not be proper one...{/size}"
 
     pov "Oh yes, the teacher did say that, I almost forgot."
 
@@ -1664,9 +1668,9 @@ label thirdstory:
 
     pov "[d] just said we should choose a chronic disease, right?"
 
-    "Perhaps you sit next to [d], so you are the only one noticed [chars[3][3]] voice."
+    "You are the only one that heard [chars[3][3]] since you sit next to [d]."
 
-    d "{size=-10}..Yes, it's what teacher said...{/size}"
+    d "{size=-10}..Yes, it's what the professor said...{/size}"
 
     show a3 at speaking
 
@@ -1680,7 +1684,7 @@ label thirdstory:
 
     show a3 at shaking
 
-    a "Cool! He would be so proud of you! How do you think? I'd like to do this."
+    a "Cool! He would be so proud of you! How do you guys think? I'd like to research on this."
 
     d "{size=-10}Ah, sure, good idea...{/size}"
 
@@ -1690,7 +1694,7 @@ label thirdstory:
 
     b "Let's do it!"
 
-    "In order to communicate after the class, you friended each other on social media platforms and created a group."
+    "In order to communicate after the class, you followed each other on social media and created a WhatsApp group."
 
     show a3 at shaking
     show b3 at shaking
@@ -1727,7 +1731,7 @@ label thirdstory:
             image google = "images/assets/google.png"
             show google at center with dissolve
 
-            pov "Oh, there's a lot of useful information, I have to note them down.."
+            pov "Oh, there's a lot of useful information, I have to write them down.."
             pov "Alright, they can save us a lot of time..."
 
             hide google with dissolve
@@ -1740,8 +1744,8 @@ label thirdstory:
                     scene blk with dissolve
                 "Maybe I can share them with the group.":
                     $ x+=1
-                    pov "I wonder if they searched the information as well."
-                    pov "{image=phone.png}\"Hey guys, I found some information about the Rheumatoid Arthritis, hope it can help.\""
+                    pov "I wonder if they searched for useful information as well."
+                    pov "{image=phone.png}\"Hey guys, I found some information about the Rheumatoid Arthritis, hope it helps.\""
                     show a3 at center with dissolve:
                         xzoom 0.4 yzoom 0.4
                         xpos 1200
@@ -1752,7 +1756,7 @@ label thirdstory:
                         xzoom 0.4 yzoom 0.4
                         xpos 800
                     voice "/audio/msg.mp3"
-                    d "{image=phone.png}\"I found some too, you can check as well.\""
+                    d "{image=phone.png}\"I found some too, you can check it out as well.\""
                     voice "/audio/msg.mp3"
                     d """{image=phone.png}\"https://www.nice.org.uk/... It's about causes of disease\"\n
                          \"https://www.versusarthritis.org/... basic information\"\n
@@ -1760,10 +1764,10 @@ label thirdstory:
                          \"......\"
 
                     """
-                    pov "{image=phone.png}\"OMG that's too much, you're amazing!\""
+                    pov "{image=phone.png}\"OMG that's a LOT, you're amazing!\""
                     voice "/audio/msg.mp3"
                     d "{image=phone.png}\"Thank you haha,,\""
-                    "You spend a lot of time to look them through, and surprisingly, they are all very useful."
+                    "You spend a lot of time to browse all websites through, and, surprisingly, they are all very useful."
                     hide d3
                     hide a3
                     with dissolve
@@ -1810,11 +1814,11 @@ label thirdstory:
 
     show c3 at speaking
 
-    c "You haven't seen them yet? It's already a week."
+    c "You haven't seen them yet? It's already been a week."
 
     show a3 at shaking
 
-    a "I was drunk! And I totally forgot them."
+    a "Sorry I was drunk! I totally forgot them."
 
     show b3 at speaking
 
@@ -1888,7 +1892,7 @@ label thirdstory:
 
     b "Uhhh, What is swimlane?"
 
-    d "{size=-10}...It's a kind of , ehhh, flowchart, I have sent one in the group...{/size}"
+    d "{size=-10}...It's a kind of , ehhh, flowchart, I have sent one in the group chat...{/size}"
 
     show a3 at shaking
 
@@ -1907,7 +1911,7 @@ label thirdstory:
 
             a "What coincidence?"
 
-            pov "Look, [c] has showed the same picture as [d]."
+            pov "Look, [c] has showed the same picture as [d] did."
 
             c "...Wow, quite a coincidence indeed."
 
@@ -1932,11 +1936,11 @@ label thirdstory:
 
     show a3 at speaking
 
-    a "Exactly, do we need to include appointments?"
+    a "Exactly, Hey guys, I just realize something: do we need to include appointments?"
 
     show c3 at speaking
 
-    c "Oh yes, It should include all parts."
+    c "Oh totally. It should include all parts. Thank you for the reminder."
 
     d "..."
 
@@ -1948,7 +1952,7 @@ label thirdstory:
 
     show c3 at speaking
 
-    c "Who do we have to make an appointment with?"
+    c "Who is in charge of making appointments in clinics?"
 
     show b3 at speaking
 
@@ -1974,13 +1978,13 @@ label thirdstory:
 
     scene drm with dissolve
 
-    "This evening, you start to work on that swimlane."
+    "The same evening, you start to work on that swimlane."
 
     "Looking at the notes you took, you decide to..."
 
     menu:
         "Do it on your own.":
-            "You think you have had enough discussion for the afternoon and start drawing swimlane diagram from your notes."
+            "You think you have had enough discussion this afternoon and start drawing swimlane diagram from your notes."
 
             pov "It's quite easssssy, I've already got all the phases and roles, just link them togeter..."
 
@@ -2284,7 +2288,7 @@ label thirdstory:
 
         pov "{image=phone.png}\"Really? what the...\""
         voice "/audio/msg.mp3"
-        a "{image=phone.png}\"[chars[3][2]] is so selfish! We are in the one group, how could [chars[3][2]] did this??\""
+        a "{image=phone.png}\"[chars[3][2]] is so selfish! We are a team, how could [chars[3][2]] do this??\""
 
         pov "{image=phone.png}\"...\""
         voice "/audio/msg.mp3"
@@ -2298,7 +2302,7 @@ label thirdstory:
 
         "Things have gotten worse."
 
-        "Oops! You don't seem to be very good at getting on with [d], maybe you need some opportunities to talk to him."
+        "Oops! You don't seem to be very good at getting on with [d], maybe you need some opportunities to talk to [chars[3][4]]."
 
         "Let's try it again!"
 
@@ -2407,7 +2411,7 @@ label thirdstory:
                         xzoom 0.4 yzoom 0.4
                         xpos 1000
                     voice "/audio/msg.mp3"
-                    d "{image=phone.png}\"..Actually is not only relapse, some medicines for rheumatoid arthritis can cause some other symptoms.\""
+                    d "{image=phone.png}\"..Actually is not only relapse, some medicines for rheumatoid arthritis can cause some other side effects.\""
                     voice "/audio/msg.mp3"
                     d "{image=phone.png}\"Like lung infection, which is a common side effect, so we need to add Pulmonologist.\""
 
@@ -2415,7 +2419,7 @@ label thirdstory:
                         xzoom 0.4 yzoom 0.4
                         xpos 1300
                     voice "/audio/msg.mp3"
-                    b "{image=phone.png}\"Make sense!\""
+                    b "{image=phone.png}\"Make sense.\""
                     voice "/audio/msg.mp3"
                     d "{image=phone.png}\"And Orthopedist is also required, ...\""
 
@@ -2485,13 +2489,13 @@ label thirdstory:
                     voice "/audio/msg.mp3"
                     b "{image=phone.png}\"Hey! I've seen my results! I can't believe it! I've never gotten a score above 90!\""
                     voice "/audio/msg.mp3"
-                    c "{image=phone.png}\"Me too! It's crazy! It all thanks to [d].\""
+                    c "{image=phone.png}\"Me too! It's crazy! Thanks to [d].\""
                     voice "/audio/msg.mp3"
                     d "{image=phone.png}\"*Similing We all did a good job.\""
                     voice "/audio/msg.mp3"
                     a "{image=phone.png}\"You saved us.\""
 
-                    pov "{image=phone.png}\"Accept our thanks! We can't do this without you.\""
+                    pov "{image=phone.png}\"We can't do this without you.\""
                     voice "/audio/msg.mp3"
                     d "{image=phone.png}\"..ok.ok, and thank you all,,,\""
 
@@ -2508,7 +2512,7 @@ label thirdstory:
                     "..."
 
                     "After this, the group always pays more attention to what [chars[3][2]] has to say and will take the initiative to ask [chars[3][4]] what [chars[3][2]] thinks."
-                    "He gradually settled into the group and is able to speak more naturally."
+                    "[d] gradually settled into the group and is able to speak more naturally."
 
                     "You become very good friends."
 
@@ -2520,7 +2524,7 @@ label thirdstory:
 
                 else:
                     voice "/audio/msg.mp3"
-                    d "{image=phone.png}\"I'm not sure...I don't think they will pay attention to it, so just keep it between us maybe better...\""
+                    d "{image=phone.png}\"I'm not sure...I don't think they will pay attention to it, so it might be better to keep it just between us...\""
 
                     pov "{image=phone.png}\"Never mind! It's all up to you. Thank you anyway!\""
                     voice "/audio/msg.mp3"
@@ -2985,7 +2989,7 @@ label fourthstory:
 
     a "*Yawn Maybe [chars[1][2]] is still dreaming about [chars[1][3]] game."
 
-    pov "Really? What time did he sleep yesterday?"
+    pov "Really? What time did [chars[1][2]] sleep yesterday?"
 
     show a4 at speaking
 
@@ -3906,7 +3910,7 @@ label fourthstory:
 
                     a "Oh, then? What did [chars[1][2]] say?"
 
-                    pov "Well, [chars[1][2]] said [chars[1][2]] didn't realise at that time what trouble he was causing you."
+                    pov "Well, [chars[1][2]] said [chars[1][2]] didn't realise at that time what trouble [chars[1][2]] was causing you."
 
                     pov "And [chars[1][2]] wouldn't have done that if [chars[1][2]]'d known."
 
@@ -4018,7 +4022,7 @@ label fourthstory:
 
                     "Evening, after the dinner, you sit on the sofa with [a] and [c]."
 
-                    pov "So you're still not going to forgive him?"
+                    pov "So you're still not going to forgive [chars[1][4]]?"
 
                     show a4 at speaking
 
@@ -4385,7 +4389,7 @@ label fourthstory:
 
                     pov "Yeah...But [chars[1][2]]'s not in good condition right now, I'm afraid that something irreversible will happen if this situation continues..."
                     show c4 at speaking
-                    c "Huh...But still, if he has no remorse whatsoever, we don't know how to get along with him."
+                    c "Huh...But still, if [chars[1][2]] has no remorse whatsoever, we don't know how to get along with [chars[1][4]]."
                     show c4 at speaking
                     c "However, If [chars[1][2]] could apologise to us, then we will do it as well for what we did, is that reasonable?"
 
@@ -4476,7 +4480,14 @@ init python:
         else:
             clothes += ".png"
         hair = (fh if char[0] == 0 else mh) + "h" + str(char[7]+1) +".png"
-        hairb = (fh if char[0] == 0 else mh) + "h" + str(char[7]+1) +"b.png"
+        my_file = (fh if char[0] == 0 else mh) + "h" + str(char[7]+1) + "b.png"
+        if renpy.exists(my_file):
+            hairb = my_file
+        else:
+            hairb = hair
+
+
+
         ex= ["","","",""]
         ex[0]=body
         ex[1]=clothes
@@ -4498,10 +4509,9 @@ init python:
             sex = renpy.random.randint(0,1)
             color = renpy.random.randint(0,len(colors[sex])-1)
             name = renpy.random.randint(0,len(names[sex])-1)
-            clothes = renpy.random.randint(0,2)
-            hair = renpy.random.randint(0,2)
-            #char[i].append(sex)
-            char[i].append(0)
+            clothes = renpy.random.randint(0,11)
+            hair = renpy.random.randint(0,11)
+            char[i].append(sex)
             char[i].append(colors[color])
 
             char[i].append(heshe[char[i][0]])
@@ -4509,7 +4519,7 @@ init python:
             char[i].append(himher[char[i][0]])
             char[i].append(names[sex][name])
             char[i].append(clothes)
-            char[i].append(0)
+            char[i].append(hair)
 
             del names[sex][name]
         return char
