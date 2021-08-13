@@ -1,40 +1,41 @@
-Wed Aug  4 22:18:09 2021
+Wed Aug 11 16:05:58 2021
 Windows-10-10.0.19041
 Ren'Py 7.4.4.1439
  
 
-Bootstrap to the start of init.init took 0.12s
-Early init took 0.00s
-Loader init took 0.02s
-Loading error handling took 0.04s
-Loading script took 0.48s
-Loading save slot metadata. took 0.05s
+Bootstrap to the start of init.init took 0.23s
+Early init took 0.01s
+Loader init took 0.03s
+Loading error handling took 0.05s
+Loading script took 1.85s
+Loading save slot metadata. took 0.08s
 Loading persistent took 0.00s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
 Running init code took 0.14s
-Loading analysis data took 0.04s
+Loading analysis data took 0.06s
 Analyze and compile ATL took 0.01s
 Index archives took 0.00s
-Dump and make backups. took 0.11s
+Backing up script files to 'C:\\Users\\hasee\\AppData\\Roaming/RenPy/backups\\test':
+Dump and make backups. took 0.19s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc. took 0.03s
+Initial gc. took 0.07s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.44s
+Creating interface object took 0.73s
 Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.06s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.11s
+Init translation took 0.10s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.04s
+Save screen analysis took 0.16s
+Prepare screens took 0.13s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
-Running _start took 0.00s
+Save bytecode. took 0.06s
+Running _start took 0.01s
 Performance test:
-Interface start took 0.44s
+Interface start took 0.73s
 
 Initializing gl renderer:
 primary display bounds: (0, 0, 1920, 1080)
@@ -58,97 +59,53 @@ Texture testing:
 - 512px textures work.
 - 1024px textures work.
 - 2048px textures work.
-Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Screen sizes: virtual=(1920, 1080) physical=(958, 539) drawable=(958, 539)
 Root FBO is: 0
 FBO Maximum Texture Size: 2048
-Total time until interface ready: 3.37319302559s
-
-Full traceback:
-  File "game/script.rpy", line 52, in script call
-    call firststory from _call_firststory
-  File "game/script.rpy", line 134, in script
-    b "I agree hahaha..  "
-  File "renpy/ast.py", line 715, in execute
-    renpy.exports.say(who, what, *args, **kwargs)
-  File "renpy/exports.py", line 1393, in say
-    who(what, *args, **kwargs)
-  File "renpy/character.py", line 1205, in __call__
-    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
-  File "renpy/character.py", line 871, in do_display
-    **display_args)
-  File "renpy/character.py", line 621, in display_say
-    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
-  File "renpy/ui.py", line 298, in interact
-    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
-  File "renpy/display/core.py", line 3101, in interact
-    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, **kwargs)
-  File "renpy/display/core.py", line 3512, in interact_core
-    root_widget.visit_all(lambda i : i.per_interact())
-  File "renpy/display/core.py", line 567, in visit_all
-    d.visit_all(callback, seen)
-  File "renpy/display/core.py", line 567, in visit_all
-    d.visit_all(callback, seen)
-  File "renpy/display/core.py", line 567, in visit_all
-    d.visit_all(callback, seen)
-  File "renpy/display/core.py", line 567, in visit_all
-    d.visit_all(callback, seen)
-  File "renpy/display/core.py", line 567, in visit_all
-    d.visit_all(callback, seen)
-  File "renpy/display/core.py", line 567, in visit_all
-    d.visit_all(callback, seen)
-  File "renpy/display/core.py", line 567, in visit_all
-    d.visit_all(callback, seen)
-  File "renpy/display/core.py", line 567, in visit_all
-    d.visit_all(callback, seen)
-  File "renpy/display/core.py", line 567, in visit_all
-    d.visit_all(callback, seen)
-  File "renpy/display/core.py", line 557, in visit_all
-    for d in self.visit():
-  File "renpy/display/image.py", line 743, in visit
-    self.find_target()
-  File "renpy/display/image.py", line 652, in find_target
-    raise Exception(error)
-Exception: DynamicImage u'[ex[1][2]]': could not find image. (u'images/char/male/hair/h5.png')
-
-While running game code:
-  File "game/script.rpy", line 52, in script call
-    call firststory from _call_firststory
-  File "game/script.rpy", line 134, in script
-    b "I agree hahaha..  "
-Exception: DynamicImage u'[ex[1][2]]': could not find image. (u'images/char/male/hair/h5.png')
+Total time until interface ready: 6.84979200363s
+Screen sizes: virtual=(1920, 1080) physical=(958, 1008) drawable=(958, 1008)
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Cleaning stores took 0.00s
+Init translation took 0.01s
+Build styles took 0.02s
+Load screen analysis took 0.16s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.01s
 Resetting cache.
-Bootstrap to the start of init.init took 98.73s
+Bootstrap to the start of init.init took 6375.32s
 Early init took 0.00s
 Loader init took 0.02s
-Loading error handling took 0.03s
-Loading script took 0.25s
-Loading save slot metadata. took 0.05s
+Loading error handling took 0.05s
+Loading script took 0.34s
+Loading save slot metadata. took 0.09s
 Loading persistent took 0.00s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
-Running init code took 0.07s
-Loading analysis data took 0.04s
-Analyze and compile ATL took 0.01s
+Running init code took 0.09s
+Loading analysis data took 0.05s
+Analyze and compile ATL took 0.02s
 Index archives took 0.00s
-Dump and make backups. took 0.11s
+Dump and make backups. took 0.13s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc. took 0.05s
+Initial gc. took 0.08s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.47s
+Creating interface object took 0.56s
 Cleaning stores took 0.00s
-Init translation took 0.07s
+Init translation took 0.08s
 Build styles took 0.01s
-Load screen analysis took 0.03s
+Load screen analysis took 0.04s
 Analyze screens took 0.00s
 Save screen analysis took 0.00s
-Prepare screens took 0.11s
+Prepare screens took 0.12s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.00s
 Running _start took 0.00s
 Performance test:
-Interface start took 0.06s
+Interface start took 0.08s
 
 Initializing gl renderer:
 primary display bounds: (0, 0, 1920, 1080)
@@ -172,7 +129,195 @@ Texture testing:
 - 512px textures work.
 - 1024px textures work.
 - 2048px textures work.
-Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Screen sizes: virtual=(1920, 1080) physical=(958, 539) drawable=(958, 539)
 Root FBO is: 0
 FBO Maximum Texture Size: 2048
-Total time until interface ready: 100.314213991s
+Total time until interface ready: 6377.43432403s
+Screen sizes: virtual=(1920, 1080) physical=(958, 1008) drawable=(958, 1008)
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Resetting cache.
+Bootstrap to the start of init.init took 6395.96s
+Early init took 0.00s
+Loader init took 0.02s
+Loading error handling took 0.04s
+Loading script took 1.41s
+Loading save slot metadata. took 0.09s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.09s
+Loading analysis data took 0.06s
+Analyze and compile ATL took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hasee\\AppData\\Roaming/RenPy/backups\\test':
+Dump and make backups. took 0.16s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.07s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.60s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.13s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.01s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'NVIDIA Corporation'
+Renderer: 'NVIDIA GeForce GTX 980M/PCIe/SSE2'
+Version: '4.6.0 NVIDIA 471.11'
+Display Info: None
+Number of texture units: 32
+Using shader environment.
+Using FBO RTT.
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Using gl renderer.
+Texture testing:
+- Hardware max texture size: 16384
+- 64px textures work.
+- 128px textures work.
+- 256px textures work.
+- 512px textures work.
+- 1024px textures work.
+- 2048px textures work.
+Screen sizes: virtual=(1920, 1080) physical=(958, 539) drawable=(958, 539)
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Total time until interface ready: 6399.29126096s
+Screen sizes: virtual=(1920, 1080) physical=(958, 1008) drawable=(958, 1008)
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Resetting cache.
+Bootstrap to the start of init.init took 6798.12s
+Early init took 0.00s
+Loader init took 0.04s
+Loading error handling took 0.06s
+Loading script took 1.74s
+Loading save slot metadata. took 0.09s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.09s
+Loading analysis data took 0.07s
+Analyze and compile ATL took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hasee\\AppData\\Roaming/RenPy/backups\\test':
+Dump and make backups. took 0.19s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.75s
+Cleaning stores took 0.00s
+Init translation took 0.17s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.04s
+Save screen analysis took 0.15s
+Prepare screens took 0.19s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.04s
+Running _start took 0.01s
+Performance test:
+Interface start took 0.10s
+
+Initializing gl renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'NVIDIA Corporation'
+Renderer: 'NVIDIA GeForce GTX 980M/PCIe/SSE2'
+Version: '4.6.0 NVIDIA 471.11'
+Display Info: None
+Number of texture units: 32
+Using shader environment.
+Using FBO RTT.
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Using gl renderer.
+Texture testing:
+- Hardware max texture size: 16384
+- 64px textures work.
+- 128px textures work.
+- 256px textures work.
+- 512px textures work.
+- 1024px textures work.
+- 2048px textures work.
+Screen sizes: virtual=(1920, 1080) physical=(958, 539) drawable=(958, 539)
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Total time until interface ready: 6802.21354985s
+Resetting cache.
+Bootstrap to the start of init.init took 6902.60s
+Early init took 0.00s
+Loader init took 0.02s
+Loading error handling took 0.03s
+Loading script took 0.29s
+Loading save slot metadata. took 0.08s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Running init code took 0.09s
+Loading analysis data took 0.07s
+Analyze and compile ATL took 0.02s
+Index archives took 0.00s
+Dump and make backups. took 0.15s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.55s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.13s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'NVIDIA Corporation'
+Renderer: 'NVIDIA GeForce GTX 980M/PCIe/SSE2'
+Version: '4.6.0 NVIDIA 471.11'
+Display Info: None
+Number of texture units: 32
+Using shader environment.
+Using FBO RTT.
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Using gl renderer.
+Texture testing:
+- Hardware max texture size: 16384
+- 64px textures work.
+- 128px textures work.
+- 256px textures work.
+- 512px textures work.
+- 1024px textures work.
+- 2048px textures work.
+Screen sizes: virtual=(1920, 1080) physical=(958, 539) drawable=(958, 539)
+Root FBO is: 0
+FBO Maximum Texture Size: 2048
+Total time until interface ready: 6904.66770506s
