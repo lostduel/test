@@ -49,15 +49,15 @@ label start:
     "Please be careful, your choices matter: different choices will lead to various endings for this game."
 
 
-    #call firststory from _call_firststory
+    call firststory from _call_firststory
 
     scene blk with dissolve
 
-    #call secondstory from _call_secondstory
+    call secondstory from _call_secondstory
 
     scene blk with dissolve
 
-    #call thirdstory from _call_thirdstory
+    call thirdstory from _call_thirdstory
 
     scene blk with dissolve
 
